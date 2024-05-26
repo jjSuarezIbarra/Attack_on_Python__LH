@@ -1,0 +1,149 @@
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Pejecoins.exe.config
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Pejecoins.exe
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Pejecoins.pdb
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AlphaBlendTextBox.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Bunifu.Licensing.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Bunifu.UI.WinForms.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\RestSharp.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Buffers.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.CodeDom.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Memory.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Numerics.Vectors.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Json.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.ValueTuple.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\RestSharp.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Buffers.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.CodeDom.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Memory.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Numerics.Vectors.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Json.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.ValueTuple.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.csproj.AssemblyReference.cache
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.exe.config
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.Login.resources
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.Properties.Resources.resources
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.csproj.GenerateResource.cache
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.csproj.CoreCompileInputs.cache
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.csproj.Up2Date
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.exe
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.pdb
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.Menu.resources
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\mongocrypt.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.Core.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\DnsClient.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Bson.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Driver.Core.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Driver.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\SharpCompress.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Snappier.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Security.AccessControl.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\ZstdSharp.dll
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.Core.pdb
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.Core.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\DnsClient.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Bson.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Driver.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\MongoDB.Driver.Core.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\Snappier.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Security.AccessControl.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Documentos\Hackathones\LinceHacks\Pejecoins\obj\Debug\Pejecoins.Notifications.resources
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.csproj.AssemblyReference.cache
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.exe.config
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.Login.resources
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.Menu.resources
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.Notifications.resources
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.Properties.Resources.resources
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.csproj.GenerateResource.cache
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.csproj.CoreCompileInputs.cache
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\mongocrypt.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Pejecoins.exe.config
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Pejecoins.exe
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Pejecoins.pdb
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.Core.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Bunifu.Licensing.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\DnsClient.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Bson.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Driver.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\RestSharp.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\SharpCompress.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Snappier.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Buffers.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.CodeDom.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Memory.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Security.AccessControl.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Json.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.ValueTuple.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\ZstdSharp.dll
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.Core.pdb
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.Core.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\DnsClient.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Bson.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Driver.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\RestSharp.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\Snappier.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Buffers.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.CodeDom.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Memory.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Security.AccessControl.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Text.Json.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\bin\Debug\System.ValueTuple.xml
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.csproj.CopyComplete
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.exe
+C:\Users\emili\Documents\Visual Studio 2022\Pejecoins\obj\Debug\Pejecoins.pdb
